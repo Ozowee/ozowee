@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
 <h3 align="center">A backend developer from Poland</h3>
 
-- 🔭 I’m currently working on **ManagementTool and RaffleSoftware**
+- 🔭 I’m currently working on **Crypto Dashboard and LastMinute offers monitor**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
