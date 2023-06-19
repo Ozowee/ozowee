@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafal</h1>
-<h3 align="center">A backend developer from Poland</h3>
+<h3 align="center">A Python Software developer from Poland</h3>
 
 - 🔭 I’m currently working on **Crypto Dashboard and LastMinute offers monitor**
 
